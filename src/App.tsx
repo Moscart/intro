@@ -240,7 +240,7 @@ function App() {
               Get your team in sync, no matter your location. Streamline
               processes, create team rituals, and watch productivity soar.
             </p>
-            <Button className="font-bold md:text-lg p-6 md:px-8 md:py-7 w-fit mx-auto md:mx-0 rounded-2xl">
+            <Button className="font-bold md:text-lg p-6 md:px-8 md:py-7 w-fit mx-auto md:mx-0 rounded-2xl hover:text-[hsl(var(--almost-black))] hover:bg-transparent shadow-none hover:ring-1 hover:ring-[hsl(var(--almost-black))]">
               Learn more
             </Button>
           </div>
